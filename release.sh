@@ -10,7 +10,7 @@ do
   # extract version number
   VERSION="${ORIGINAL_FILENAME##*-}"
   # remove replace . by - for artifactID
-  FILENAME=${FILENAME//./-}
+  # FILENAME=${FILENAME//./-}
 
   mvn deploy:deploy-file -DgroupId=net.sf.robocode \
     -DartifactId=$FILENAME \
