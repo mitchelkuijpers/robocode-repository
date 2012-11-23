@@ -3,10 +3,11 @@
   <groupId>net.sf.robocode</groupId>
   <artifactId>roborumble</artifactId>
   <versioning>
-    <release>1.7.4.2</release>
+    <release>roborumble</release>
     <versions>
       <version>1.7.4.2</version>
+      <version>roborumble</version>
     </versions>
-    <lastUpdated>20120924095632</lastUpdated>
+    <lastUpdated>20121123095259</lastUpdated>
   </versioning>
 </metadata>
